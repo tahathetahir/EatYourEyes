@@ -1,0 +1,1173 @@
+{
+ "meta": {
+  "source": "USDA National Nutrient Database for Standard Reference Legacy (2018)",
+  "sourceUrl": "https://www.nal.usda.gov/sites/default/files/page-files/Lutein_zeaxanthin.pdf",
+  "nutrient": "Lutein + zeaxanthin, combined, micrograms per household serving",
+  "referenceUg": 12000,
+  "referenceLabel": "AREDS2 trial daily dose (10 mg lutein + 2 mg zeaxanthin)",
+  "referenceCaveat": "This is the dose used in the AREDS2 clinical trial. It is NOT a recommended daily allowance. No official RDA exists for lutein or zeaxanthin.",
+  "count": 145
+ },
+ "foods": [
+  {
+   "id": "F001",
+   "name": "Spinach, canned",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 20409,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F002",
+   "name": "Turnip greens, frozen, cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 19541,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F003",
+   "name": "Turnip greens and turnips, frozen, cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 15537,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F004",
+   "name": "Turnip greens, cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 12154,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F005",
+   "name": "Turnip greens, frozen, cooked, with salt",
+   "category": "Leafy Greens",
+   "serving": "1/2 cup",
+   "ugPerServing": 9770,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F006",
+   "name": "Cress, garden, raw",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 6250,
+   "tier": "Excellent"
+  },
+  {
+   "id": "F007",
+   "name": "Peas and carrots, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1 package (10 oz)",
+   "ugPerServing": 4276,
+   "tier": "High"
+  },
+  {
+   "id": "F008",
+   "name": "Spinach, raw",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 3659,
+   "tier": "High"
+  },
+  {
+   "id": "F009",
+   "name": "Peas, green, raw",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 3592,
+   "tier": "High"
+  },
+  {
+   "id": "F010",
+   "name": "Kale, frozen, unprepared",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 3591,
+   "tier": "High"
+  },
+  {
+   "id": "F011",
+   "name": "Noodles, egg, spinach, cooked",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 3571,
+   "tier": "High"
+  },
+  {
+   "id": "F012",
+   "name": "Poke shoots, cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 2883,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F013",
+   "name": "Corn, sweet, yellow, canned, vacuum pack",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 2194,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F014",
+   "name": "Zucchini, with skin, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup, sliced",
+   "ugPerServing": 2070,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F015",
+   "name": "Broccoli, frozen, chopped, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 2015,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F016",
+   "name": "Broccoli, frozen, chopped, unprepared",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1747,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F017",
+   "name": "Corn, sweet, yellow, canned, brine pack",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1664,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F018",
+   "name": "Asparagus, canned, drained",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1525,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F019",
+   "name": "Jute leaves, cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 1520,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F020",
+   "name": "Persimmon, Japanese, raw",
+   "category": "Fruit",
+   "serving": "1 fruit (2.5in)",
+   "ugPerServing": 1401,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F021",
+   "name": "Brussels sprouts, raw",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1399,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F022",
+   "name": "Kale, raw",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 1315,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F023",
+   "name": "Leeks, cooked",
+   "category": "Vegetables",
+   "serving": "1 leek",
+   "ugPerServing": 1147,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F024",
+   "name": "Corn, sweet, yellow, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1129,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F025",
+   "name": "Asparagus, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 1112,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F026",
+   "name": "Corn, sweet, yellow, frozen, unprepared",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 914,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F027",
+   "name": "Orange juice, frozen concentrate, undiluted",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 872,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F028",
+   "name": "Chocolate mousse, homemade",
+   "category": "Prepared Dishes",
+   "serving": "1 recipe yield",
+   "ugPerServing": 760,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F029",
+   "name": "Squash, summer, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup, sliced",
+   "ugPerServing": 745,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F030",
+   "name": "Peas, edible-podded, raw",
+   "category": "Vegetables",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 725,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F031",
+   "name": "Vegetable juice cocktail, canned",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 703,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F032",
+   "name": "Asparagus, cooked",
+   "category": "Vegetables",
+   "serving": "1/2 cup",
+   "ugPerServing": 694,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F033",
+   "name": "Green beans, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 686,
+   "tier": "Moderate"
+  },
+  {
+   "id": "F034",
+   "name": "Croissant sandwich, egg cheese sausage",
+   "category": "Prepared Dishes",
+   "serving": "1 sandwich",
+   "ugPerServing": 575,
+   "tier": "Low"
+  },
+  {
+   "id": "F035",
+   "name": "Beet greens, raw",
+   "category": "Leafy Greens",
+   "serving": "1 cup",
+   "ugPerServing": 571,
+   "tier": "Low"
+  },
+  {
+   "id": "F036",
+   "name": "Celery, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup, diced",
+   "ugPerServing": 494,
+   "tier": "Low"
+  },
+  {
+   "id": "F037",
+   "name": "Corn grits, yellow, cooked",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 459,
+   "tier": "Low"
+  },
+  {
+   "id": "F038",
+   "name": "Okra, frozen, unprepared",
+   "category": "Vegetables",
+   "serving": "1/3 package (10 oz)",
+   "ugPerServing": 458,
+   "tier": "Low"
+  },
+  {
+   "id": "F039",
+   "name": "Broccoli raab, raw",
+   "category": "Vegetables",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 448,
+   "tier": "Low"
+  },
+  {
+   "id": "F040",
+   "name": "Okra, frozen, cooked",
+   "category": "Vegetables",
+   "serving": "1/2 cup, sliced",
+   "ugPerServing": 386,
+   "tier": "Low"
+  },
+  {
+   "id": "F041",
+   "name": "Carrots, raw",
+   "category": "Vegetables",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 328,
+   "tier": "Low"
+  },
+  {
+   "id": "F042",
+   "name": "Tomatoes, red, canned, stewed",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 321,
+   "tier": "Low"
+  },
+  {
+   "id": "F043",
+   "name": "Soup, beef and vegetable, canned",
+   "category": "Prepared Dishes",
+   "serving": "1 cup",
+   "ugPerServing": 298,
+   "tier": "Low"
+  },
+  {
+   "id": "F044",
+   "name": "Cereal, bran, crunchy",
+   "category": "Grains & Starches",
+   "serving": "3/4 cup",
+   "ugPerServing": 286,
+   "tier": "Low"
+  },
+  {
+   "id": "F045",
+   "name": "Cornbread, prepared from mix",
+   "category": "Grains & Starches",
+   "serving": "1 muffin",
+   "ugPerServing": 280,
+   "tier": "Low"
+  },
+  {
+   "id": "F046",
+   "name": "Egg yolk, frozen, pasteurised",
+   "category": "Eggs & Dairy",
+   "serving": "1 oz",
+   "ugPerServing": 274,
+   "tier": "Low"
+  },
+  {
+   "id": "F047",
+   "name": "Tangerines (mandarin oranges), raw",
+   "category": "Fruit",
+   "serving": "1 cup, sections",
+   "ugPerServing": 269,
+   "tier": "Low"
+  },
+  {
+   "id": "F048",
+   "name": "Egg, whole, raw",
+   "category": "Eggs & Dairy",
+   "serving": "1 large",
+   "ugPerServing": 252,
+   "tier": "Low"
+  },
+  {
+   "id": "F049",
+   "name": "Egg, whole, poached",
+   "category": "Eggs & Dairy",
+   "serving": "1 large",
+   "ugPerServing": 250,
+   "tier": "Low"
+  },
+  {
+   "id": "F050",
+   "name": "Egg, whole, fried",
+   "category": "Eggs & Dairy",
+   "serving": "1 large",
+   "ugPerServing": 250,
+   "tier": "Low"
+  },
+  {
+   "id": "F051",
+   "name": "Snacks, corn-based, onion flavour",
+   "category": "Snacks",
+   "serving": "1 oz",
+   "ugPerServing": 249,
+   "tier": "Low"
+  },
+  {
+   "id": "F052",
+   "name": "Barley flour or meal",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 237,
+   "tier": "Low"
+  },
+  {
+   "id": "F053",
+   "name": "Croissant sandwich, egg cheese ham",
+   "category": "Prepared Dishes",
+   "serving": "1 item",
+   "ugPerServing": 223,
+   "tier": "Low"
+  },
+  {
+   "id": "F054",
+   "name": "Kiwifruit, green, raw",
+   "category": "Fruit",
+   "serving": "1 cup, sliced",
+   "ugPerServing": 220,
+   "tier": "Low"
+  },
+  {
+   "id": "F055",
+   "name": "Cereal, honeycomb type",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 218,
+   "tier": "Low"
+  },
+  {
+   "id": "F056",
+   "name": "Cereal, puffed corn",
+   "category": "Grains & Starches",
+   "serving": "3/4 cup",
+   "ugPerServing": 209,
+   "tier": "Low"
+  },
+  {
+   "id": "F057",
+   "name": "Oat flour, partially debranned",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 187,
+   "tier": "Low"
+  },
+  {
+   "id": "F058",
+   "name": "Tomatoes, red, canned in tomato juice",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 187,
+   "tier": "Low"
+  },
+  {
+   "id": "F059",
+   "name": "Soup, split pea with ham, canned",
+   "category": "Prepared Dishes",
+   "serving": "1 cup",
+   "ugPerServing": 187,
+   "tier": "Low"
+  },
+  {
+   "id": "F060",
+   "name": "Fruit cocktail, canned in heavy syrup",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 186,
+   "tier": "Low"
+  },
+  {
+   "id": "F061",
+   "name": "Snacks, cheese puffs",
+   "category": "Snacks",
+   "serving": "1 oz (approx 21 pieces)",
+   "ugPerServing": 180,
+   "tier": "Low"
+  },
+  {
+   "id": "F062",
+   "name": "Blackberries, frozen, unsweetened",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 178,
+   "tier": "Low"
+  },
+  {
+   "id": "F063",
+   "name": "English muffin sandwich, egg cheese bacon",
+   "category": "Prepared Dishes",
+   "serving": "1 sandwich",
+   "ugPerServing": 176,
+   "tier": "Low"
+  },
+  {
+   "id": "F064",
+   "name": "Loganberries, frozen",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 173,
+   "tier": "Low"
+  },
+  {
+   "id": "F065",
+   "name": "Blackberry juice, canned",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 170,
+   "tier": "Low"
+  },
+  {
+   "id": "F066",
+   "name": "Blueberries, frozen, sweetened",
+   "category": "Fruit",
+   "serving": "1 cup, thawed",
+   "ugPerServing": 168,
+   "tier": "Low"
+  },
+  {
+   "id": "F067",
+   "name": "Granola, homemade",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 167,
+   "tier": "Low"
+  },
+  {
+   "id": "F068",
+   "name": "Squash, winter, acorn, cooked",
+   "category": "Vegetables",
+   "serving": "1 cup, mashed",
+   "ugPerServing": 162,
+   "tier": "Low"
+  },
+  {
+   "id": "F069",
+   "name": "Biscuit with egg and bacon",
+   "category": "Prepared Dishes",
+   "serving": "1 biscuit",
+   "ugPerServing": 160,
+   "tier": "Low"
+  },
+  {
+   "id": "F070",
+   "name": "Bitter gourd (balsam pear), raw",
+   "category": "Vegetables",
+   "serving": "1 cup, pieces",
+   "ugPerServing": 158,
+   "tier": "Low"
+  },
+  {
+   "id": "F071",
+   "name": "Boysenberries, frozen",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 156,
+   "tier": "Low"
+  },
+  {
+   "id": "F072",
+   "name": "Peaches, canned in light syrup",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 153,
+   "tier": "Low"
+  },
+  {
+   "id": "F073",
+   "name": "Peaches, canned in water",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 149,
+   "tier": "Low"
+  },
+  {
+   "id": "F074",
+   "name": "Tomato juice, canned, salted",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 146,
+   "tier": "Low"
+  },
+  {
+   "id": "F075",
+   "name": "Tomato juice, canned, unsalted",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 146,
+   "tier": "Low"
+  },
+  {
+   "id": "F076",
+   "name": "Cherries, sweet, canned in water",
+   "category": "Fruit",
+   "serving": "1 cup, pitted",
+   "ugPerServing": 141,
+   "tier": "Low"
+  },
+  {
+   "id": "F077",
+   "name": "Biscuit with egg and sausage",
+   "category": "Prepared Dishes",
+   "serving": "1 item",
+   "ugPerServing": 141,
+   "tier": "Low"
+  },
+  {
+   "id": "F078",
+   "name": "Carrots, frozen, unprepared",
+   "category": "Vegetables",
+   "serving": "1/2 cup, sliced",
+   "ugPerServing": 140,
+   "tier": "Low"
+  },
+  {
+   "id": "F079",
+   "name": "Soup, chicken, canned, chunky",
+   "category": "Prepared Dishes",
+   "serving": "1 cup",
+   "ugPerServing": 137,
+   "tier": "Low"
+  },
+  {
+   "id": "F080",
+   "name": "Eggnog",
+   "category": "Eggs & Dairy",
+   "serving": "1 cup",
+   "ugPerServing": 137,
+   "tier": "Low"
+  },
+  {
+   "id": "F081",
+   "name": "Cranberry sauce, canned, sweetened",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 133,
+   "tier": "Low"
+  },
+  {
+   "id": "F082",
+   "name": "Papaya, raw",
+   "category": "Fruit",
+   "serving": "1 cup, 1in pieces",
+   "ugPerServing": 129,
+   "tier": "Low"
+  },
+  {
+   "id": "F083",
+   "name": "Grapes, canned in water",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 118,
+   "tier": "Low"
+  },
+  {
+   "id": "F084",
+   "name": "Cherries, sweet, raw",
+   "category": "Fruit",
+   "serving": "1 cup, with pits",
+   "ugPerServing": 117,
+   "tier": "Low"
+  },
+  {
+   "id": "F085",
+   "name": "Soup, tomato, canned, reduced sodium",
+   "category": "Prepared Dishes",
+   "serving": "1/2 cup serving",
+   "ugPerServing": 109,
+   "tier": "Low"
+  },
+  {
+   "id": "F086",
+   "name": "Wheat flour, white, bread, enriched",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 108,
+   "tier": "Low"
+  },
+  {
+   "id": "F087",
+   "name": "Nuts, hazelnuts",
+   "category": "Nuts & Seeds",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 106,
+   "tier": "Low"
+  },
+  {
+   "id": "F088",
+   "name": "Cream puff or eclair, custard filled",
+   "category": "Prepared Dishes",
+   "serving": "4 oz",
+   "ugPerServing": 97,
+   "tier": "Low"
+  },
+  {
+   "id": "F089",
+   "name": "Cherries, sour, red, frozen",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 95,
+   "tier": "Low"
+  },
+  {
+   "id": "F090",
+   "name": "Soup, chicken gumbo, condensed",
+   "category": "Prepared Dishes",
+   "serving": "1/2 cup (4 fl oz)",
+   "ugPerServing": 93,
+   "tier": "Low"
+  },
+  {
+   "id": "F091",
+   "name": "Soup, black bean, condensed",
+   "category": "Prepared Dishes",
+   "serving": "1 cup (8 fl oz)",
+   "ugPerServing": 93,
+   "tier": "Low"
+  },
+  {
+   "id": "F092",
+   "name": "Carambola (starfruit), raw",
+   "category": "Fruit",
+   "serving": "1 cup, cubes",
+   "ugPerServing": 87,
+   "tier": "Low"
+  },
+  {
+   "id": "F093",
+   "name": "Cereal, shredded wheat, spoon-size",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 86,
+   "tier": "Low"
+  },
+  {
+   "id": "F094",
+   "name": "Apricots, canned in heavy syrup, drained",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 85,
+   "tier": "Low"
+  },
+  {
+   "id": "F095",
+   "name": "Pears, canned in light syrup",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 85,
+   "tier": "Low"
+  },
+  {
+   "id": "F096",
+   "name": "Plantains, yellow, raw",
+   "category": "Fruit",
+   "serving": "1 plantain",
+   "ugPerServing": 81,
+   "tier": "Low"
+  },
+  {
+   "id": "F097",
+   "name": "Cereal, oat flakes with vanilla",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 79,
+   "tier": "Low"
+  },
+  {
+   "id": "F098",
+   "name": "Tomato sauce with onion, pepper, celery",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 75,
+   "tier": "Low"
+  },
+  {
+   "id": "F099",
+   "name": "Oatmeal, multigrain, dry",
+   "category": "Grains & Starches",
+   "serving": "1/2 cup",
+   "ugPerServing": 73,
+   "tier": "Low"
+  },
+  {
+   "id": "F100",
+   "name": "Arugula, raw",
+   "category": "Leafy Greens",
+   "serving": "1 leaf",
+   "ugPerServing": 71,
+   "tier": "Low"
+  },
+  {
+   "id": "F101",
+   "name": "Grapefruit juice, frozen concentrate",
+   "category": "Fruit",
+   "serving": "1 can (6 fl oz)",
+   "ugPerServing": 70,
+   "tier": "Low"
+  },
+  {
+   "id": "F102",
+   "name": "Popcorn, caramel, fat-free",
+   "category": "Snacks",
+   "serving": "1 oz",
+   "ugPerServing": 69,
+   "tier": "Low"
+  },
+  {
+   "id": "F103",
+   "name": "Orange juice, chilled, fortified",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 67,
+   "tier": "Low"
+  },
+  {
+   "id": "F104",
+   "name": "Apricots, canned in heavy syrup, with skin",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 67,
+   "tier": "Low"
+  },
+  {
+   "id": "F105",
+   "name": "Grapes, American type, raw",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 66,
+   "tier": "Low"
+  },
+  {
+   "id": "F106",
+   "name": "Pak choi (Chinese cabbage), cooked",
+   "category": "Leafy Greens",
+   "serving": "1 cup, shredded",
+   "ugPerServing": 65,
+   "tier": "Low"
+  },
+  {
+   "id": "F107",
+   "name": "Egg, omelette",
+   "category": "Eggs & Dairy",
+   "serving": "1 tbsp",
+   "ugPerServing": 63,
+   "tier": "Low"
+  },
+  {
+   "id": "F108",
+   "name": "Cereal, flax flakes",
+   "category": "Grains & Starches",
+   "serving": "3/4 cup",
+   "ugPerServing": 63,
+   "tier": "Low"
+  },
+  {
+   "id": "F109",
+   "name": "Pears, raw",
+   "category": "Fruit",
+   "serving": "1 cup, slices",
+   "ugPerServing": 62,
+   "tier": "Low"
+  },
+  {
+   "id": "F110",
+   "name": "Crackers, wheat, regular",
+   "category": "Snacks",
+   "serving": "16 crackers",
+   "ugPerServing": 61,
+   "tier": "Low"
+  },
+  {
+   "id": "F111",
+   "name": "Pears, dried, stewed",
+   "category": "Fruit",
+   "serving": "1 cup, halves",
+   "ugPerServing": 61,
+   "tier": "Low"
+  },
+  {
+   "id": "F112",
+   "name": "Noodles, egg, cooked",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 61,
+   "tier": "Low"
+  },
+  {
+   "id": "F113",
+   "name": "Oats, instant, with raisins and spice",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 58,
+   "tier": "Low"
+  },
+  {
+   "id": "F114",
+   "name": "Potato, Russet, baked, with skin",
+   "category": "Grains & Starches",
+   "serving": "1 large potato",
+   "ugPerServing": 57,
+   "tier": "Low"
+  },
+  {
+   "id": "F115",
+   "name": "Currants, red and white, raw",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 53,
+   "tier": "Low"
+  },
+  {
+   "id": "F116",
+   "name": "Breadfruit, raw",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 48,
+   "tier": "Low"
+  },
+  {
+   "id": "F117",
+   "name": "Applesauce, canned, sweetened",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 44,
+   "tier": "Low"
+  },
+  {
+   "id": "F118",
+   "name": "Olives, ripe, canned",
+   "category": "Vegetables",
+   "serving": "1 tbsp",
+   "ugPerServing": 43,
+   "tier": "Low"
+  },
+  {
+   "id": "F119",
+   "name": "Plantains, yellow, baked",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 39,
+   "tier": "Low"
+  },
+  {
+   "id": "F120",
+   "name": "Mango, raw",
+   "category": "Fruit",
+   "serving": "1 cup, pieces",
+   "ugPerServing": 38,
+   "tier": "Low"
+  },
+  {
+   "id": "F121",
+   "name": "Lemon juice, raw",
+   "category": "Fruit",
+   "serving": "1 cup",
+   "ugPerServing": 37,
+   "tier": "Low"
+  },
+  {
+   "id": "F122",
+   "name": "Chinese cabbage (pe-tsai), raw",
+   "category": "Leafy Greens",
+   "serving": "1 cup, shredded",
+   "ugPerServing": 36,
+   "tier": "Low"
+  },
+  {
+   "id": "F123",
+   "name": "Pumpkin and squash seed kernels, roasted",
+   "category": "Nuts & Seeds",
+   "serving": "1 cup",
+   "ugPerServing": 35,
+   "tier": "Low"
+  },
+  {
+   "id": "F124",
+   "name": "Bread, pita, white",
+   "category": "Grains & Starches",
+   "serving": "1 large pita (6.5in)",
+   "ugPerServing": 32,
+   "tier": "Low"
+  },
+  {
+   "id": "F125",
+   "name": "Bread, whole-wheat",
+   "category": "Grains & Starches",
+   "serving": "1 slice",
+   "ugPerServing": 28,
+   "tier": "Low"
+  },
+  {
+   "id": "F126",
+   "name": "Cauliflower, green, raw",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 27,
+   "tier": "Low"
+  },
+  {
+   "id": "F127",
+   "name": "Garlic, raw",
+   "category": "Vegetables",
+   "serving": "1 cup",
+   "ugPerServing": 22,
+   "tier": "Low"
+  },
+  {
+   "id": "F128",
+   "name": "Apples, raw, without skin",
+   "category": "Fruit",
+   "serving": "1 cup, slices",
+   "ugPerServing": 20,
+   "tier": "Low"
+  },
+  {
+   "id": "F129",
+   "name": "Thyme, dried",
+   "category": "Herbs & Spices",
+   "serving": "1 tsp, leaves",
+   "ugPerServing": 19,
+   "tier": "Low"
+  },
+  {
+   "id": "F130",
+   "name": "Radishes, raw",
+   "category": "Vegetables",
+   "serving": "1 cup, slices",
+   "ugPerServing": 12,
+   "tier": "Low"
+  },
+  {
+   "id": "F131",
+   "name": "Grapefruit, raw, pink and red",
+   "category": "Fruit",
+   "serving": "1 cup, sections",
+   "ugPerServing": 12,
+   "tier": "Low"
+  },
+  {
+   "id": "F132",
+   "name": "Marjoram, dried",
+   "category": "Herbs & Spices",
+   "serving": "1 tsp",
+   "ugPerServing": 11,
+   "tier": "Low"
+  },
+  {
+   "id": "F133",
+   "name": "Mustard seed, ground",
+   "category": "Herbs & Spices",
+   "serving": "1 tsp",
+   "ugPerServing": 11,
+   "tier": "Low"
+  },
+  {
+   "id": "F134",
+   "name": "Cheese, Swiss",
+   "category": "Eggs & Dairy",
+   "serving": "1 cup, diced",
+   "ugPerServing": 11,
+   "tier": "Low"
+  },
+  {
+   "id": "F135",
+   "name": "Caraway seed",
+   "category": "Herbs & Spices",
+   "serving": "1 tsp",
+   "ugPerServing": 10,
+   "tier": "Low"
+  },
+  {
+   "id": "F136",
+   "name": "Chocolate, dark, 60-69% cacao",
+   "category": "Snacks",
+   "serving": "1 oz",
+   "ugPerServing": 9,
+   "tier": "Low"
+  },
+  {
+   "id": "F137",
+   "name": "Onions, sweet, raw",
+   "category": "Vegetables",
+   "serving": "1 serving",
+   "ugPerServing": 9,
+   "tier": "Low"
+  },
+  {
+   "id": "F138",
+   "name": "Bread, white wheat",
+   "category": "Grains & Starches",
+   "serving": "1 slice",
+   "ugPerServing": 7,
+   "tier": "Low"
+  },
+  {
+   "id": "F139",
+   "name": "Potatoes, boiled without skin",
+   "category": "Grains & Starches",
+   "serving": "1/2 cup",
+   "ugPerServing": 7,
+   "tier": "Low"
+  },
+  {
+   "id": "F140",
+   "name": "Onions, raw",
+   "category": "Vegetables",
+   "serving": "1 cup, chopped",
+   "ugPerServing": 6,
+   "tier": "Low"
+  },
+  {
+   "id": "F141",
+   "name": "Cinnamon, ground",
+   "category": "Herbs & Spices",
+   "serving": "1 tsp",
+   "ugPerServing": 6,
+   "tier": "Low"
+  },
+  {
+   "id": "F142",
+   "name": "Figs, raw",
+   "category": "Fruit",
+   "serving": "1 large (2.5in)",
+   "ugPerServing": 6,
+   "tier": "Low"
+  },
+  {
+   "id": "F143",
+   "name": "Cornmeal, whole-grain, white",
+   "category": "Grains & Starches",
+   "serving": "1 cup",
+   "ugPerServing": 6,
+   "tier": "Low"
+  },
+  {
+   "id": "F144",
+   "name": "Tortilla, flour, shelf stable",
+   "category": "Grains & Starches",
+   "serving": "1 tortilla",
+   "ugPerServing": 6,
+   "tier": "Low"
+  },
+  {
+   "id": "F145",
+   "name": "Almonds, dry roasted",
+   "category": "Nuts & Seeds",
+   "serving": "1 cup, whole",
+   "ugPerServing": 1,
+   "tier": "Low"
+  }
+ ]
+}

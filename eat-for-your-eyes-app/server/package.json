@@ -1,0 +1,15 @@
+{
+  "name": "eat-for-your-eyes-server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Accounts, login history, survey answers, and feedback for Eat For Your Eyes. Deliberately does not receive or store any food/nutrient log data -- that stays on-device (see CONTEXT.md).",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}

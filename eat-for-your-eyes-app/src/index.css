@@ -1,0 +1,76 @@
+/* Pulls in Tailwind's utility classes (things like "flex" or "text-lg"
+   that we can use directly on elements instead of writing custom CSS). */
+@import "tailwindcss";
+
+/*
+  Colour palette
+  --------------
+  Named as CSS custom properties (variables) so every screen in the app
+  reads colours from here instead of typing hex codes everywhere. If the
+  palette ever changes, it only has to change in this one place.
+
+  Every text/background pairing below was checked against the WCAG contrast
+  formula and must stay at or above 4.5:1 (the accessibility requirement in
+  CONTEXT.md). The measured ratios are recorded in the Stage 0 summary, not
+  restated here, so this comment doesn't go stale if a colour is tweaked.
+*/
+:root {
+  --color-bg: #ffffff;          /* main page background */
+  --color-bg-alt: #f4f7f6;      /* card / panel background, slightly off-white */
+  --color-text: #1b2b34;        /* main body text */
+  --color-text-muted: #3f5762;  /* secondary text, e.g. captions */
+  --color-border: #d8dcdd;      /* dividing lines, card borders */
+
+  --color-primary: #0b6e4f;       /* buttons, links, active states (deep green) */
+  --color-primary-dark: #084c37;  /* hover/pressed state for primary */
+  --color-focus: #0b4f8a;         /* keyboard focus outline (blue, distinct from primary) */
+
+  /* Tier colours. CONTEXT.md requires tier to never be shown by colour
+     alone, so every place these are used must also show the tier's name
+     as text. These are just the badge backgrounds. */
+  --color-tier-excellent: #0b6e4f;   /* dark green, white text on top */
+  --color-tier-high: #0e5a6b;        /* teal, white text on top */
+  --color-tier-moderate: #f2b705;    /* amber, dark text on top */
+  --color-tier-low: #d8dcdd;         /* grey, dark text on top */
+}
+
+/* Base typography. Spec requires body text no smaller than 16px, and
+   recommends 18px as the default -- older readers benefit from the extra
+   size, so we start at 18 and never go below it, even on small screens. */
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+/* Visible keyboard focus. Browsers already do this to some degree, but we
+   make it explicit and consistent so it's never accidentally styled away
+   later (a common accessibility bug). */
+:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+/* No element should ever cause the page to scroll sideways (spec:
+   no horizontal scrolling at any width from 320px up). */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Print stylesheet for the History screen's export (specification 5.4).
+   Elements marked print:hidden (the nav bar, buttons, on-screen-only
+   sections) are handled by Tailwind's print: variant in each component;
+   this just makes sure the printed page itself is plain and readable. */
+@media print {
+  body {
+    background: #ffffff;
+    color: #000000;
+  }
+}
